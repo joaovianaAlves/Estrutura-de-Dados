@@ -1,0 +1,8 @@
+C:\Users\unisanta\source\repos\ListaDuplaObjeto\ListaDuplaObjeto\obj\Debug\ListaDuplaObjeto.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\ListaDuplaObjeto\ListaDuplaObjeto\obj\Debug\ListaDuplaObjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\ListaDuplaObjeto\ListaDuplaObjeto\obj\Debug\ListaDuplaObjeto.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\ListaDuplaObjeto\ListaDuplaObjeto\bin\Debug\ListaDuplaObjeto.exe.config
+C:\Users\unisanta\source\repos\ListaDuplaObjeto\ListaDuplaObjeto\bin\Debug\ListaDuplaObjeto.exe
+C:\Users\unisanta\source\repos\ListaDuplaObjeto\ListaDuplaObjeto\bin\Debug\ListaDuplaObjeto.pdb
+C:\Users\unisanta\source\repos\ListaDuplaObjeto\ListaDuplaObjeto\obj\Debug\ListaDuplaObjeto.exe
+C:\Users\unisanta\source\repos\ListaDuplaObjeto\ListaDuplaObjeto\obj\Debug\ListaDuplaObjeto.pdb
